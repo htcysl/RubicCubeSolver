@@ -1,2 +1,3 @@
 # RubicCubeSolver
-Project for Algorrith Course
+Project for Algorithm Course
+
